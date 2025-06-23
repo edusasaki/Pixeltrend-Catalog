@@ -32,7 +32,7 @@ window.addEventListener("DOMContentLoaded", () => {
     boxes.forEach((b) => b.classList.toggle("dark", isDark));
 
     iconGit.src = isDark
-      ? "assets/icongithub-white.png"
+      ? "assets/icongithubwhite.png"
       : "assets/icongithub.png";
     toggleIcon.src = isDark ? "assets/sunicon.png" : "assets/moonicon.png";
     cartIcon.src = isDark
