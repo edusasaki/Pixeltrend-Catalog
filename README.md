@@ -1,4 +1,4 @@
-- PixelTrend
+## PixelTrend
 
 Um catálogo visual moderno e dinâmico feito com HTML, CSS e JavaScript. Ideal para exibir ideias, produtos ou tendências visuais.
 
@@ -12,7 +12,7 @@ O **PixelTrend** é um site responsivo que apresenta um catálogo visual atrativ
 - Portfólios modernos
 - Tendências visuais e criativas
 
-- Funcionalidades
+## Funcionalidades
 
 - Interface responsiva
 - Cards interativos com animações
@@ -20,7 +20,7 @@ O **PixelTrend** é um site responsivo que apresenta um catálogo visual atrativ
 - Código limpo e organizado
 - Design inspirado em portfólios modernos
 
-- Tecnologias usadas
+## Tecnologias usadas
 
 - HTML5
 - CSS3
