@@ -2,7 +2,7 @@
 
 Um catálogo visual moderno e dinâmico feito com HTML, CSS e JavaScript. Ideal para exibir ideias, produtos ou tendências visuais.
 
-[ **Clique aqui para acessar o site**]([https://edusasaki.github.io/pixeltrend](https://edusasaki.github.io/Pixeltrend-catalog/)) <!-- Altere essa URL para a do seu projeto publicado -->
+[ **Clique aqui para acessar o site**]([(https://edusasaki.github.io/Pixeltrend-Catalog/)])
 
 ##  Descrição
 
