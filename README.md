@@ -1,10 +1,10 @@
-# 🌐 PixelTrend
+- PixelTrend
 
 Um catálogo visual moderno e dinâmico feito com HTML, CSS e JavaScript. Ideal para exibir ideias, produtos ou tendências visuais.
 
-[🔗 **Clique aqui para acessar o site**](https://edusasaki.github.io/pixeltrend) <!-- Altere essa URL para a do seu projeto publicado -->
+[ **Clique aqui para acessar o site**]([https://edusasaki.github.io/pixeltrend](https://edusasaki.github.io/Pixeltrend-catalog/)) <!-- Altere essa URL para a do seu projeto publicado -->
 
-## 🧾 Descrição
+##  Descrição
 
 O **PixelTrend** é um site responsivo que apresenta um catálogo visual atrativo. Ele utiliza animações suaves, suporte a temas claro/escuro e uma estrutura de fácil personalização. Perfeito para:
 
@@ -12,7 +12,7 @@ O **PixelTrend** é um site responsivo que apresenta um catálogo visual atrativ
 - Portfólios modernos
 - Tendências visuais e criativas
 
-## ✨ Funcionalidades
+- Funcionalidades
 
 - Interface responsiva
 - Cards interativos com animações
@@ -20,11 +20,9 @@ O **PixelTrend** é um site responsivo que apresenta um catálogo visual atrativ
 - Código limpo e organizado
 - Design inspirado em portfólios modernos
 
-## 🛠 Tecnologias usadas
+- Tecnologias usadas
 
 - HTML5
 - CSS3
 - JavaScript (puro)
-
-## 📁 Estrutura do projeto
 
