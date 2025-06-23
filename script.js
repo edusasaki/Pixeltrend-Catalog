@@ -32,13 +32,13 @@ window.addEventListener("DOMContentLoaded", () => {
     boxes.forEach((b) => b.classList.toggle("dark", isDark));
 
     iconGit.src = isDark
-      ? "/assets/icon-github-white.png"
-      : "/assets/icon-github.png";
-    toggleIcon.src = isDark ? "/assets/sun-icon.png" : "/assets/moon-icon.png";
+      ? "assets/icongithub-white.png"
+      : "assets/icongithub.png";
+    toggleIcon.src = isDark ? "assets/sunicon.png" : "assets/moonicon.png";
     cartIcon.src = isDark
-      ? "/assets/carrinho-white.png"
-      : "/assets/carrinho-black.png";
-    lupaIcon.src = isDark ? "/assets/lupa-light.png" : "/assets/lupa-dark.png";
+      ? "assets/carrinhowhite.png"
+      : "assets/carrinhoblack.png";
+    lupaIcon.src = isDark ? "assets/lupalight.png" : "assets/lupadark.png";
 
     localStorage.setItem("modoTema", isDark ? "dark" : "light");
   }
