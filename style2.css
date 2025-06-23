@@ -58,12 +58,12 @@ main.dark {
   padding-top: 80px;
 }
 .home {
-  background: url(/imgs/home-light.png);
+  background: url(imgs/homelight.png);
   height: 100vh;
   z-index: -1;
 }
 .home.dark {
-  background: url(/imgs/home-dark.png);
+  background: url(imgs/homedark.png);
   height: 100vh;
   z-index: -1;
 }
